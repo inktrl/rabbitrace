@@ -55,7 +55,7 @@ Contributions are always welcome!
 
 #### Running the extension locally for development
 
-1. Clone the repository and install dependencies by running `yarn install`
+1. Clone the repository and install dependencies by running `bun install`
 2. Press `F5` to open a new window with your extension loaded.
 3. Run your command from the command palette by pressing (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) and typing `Rabbitrace: Create Connection`.
 

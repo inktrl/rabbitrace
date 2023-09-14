@@ -3,7 +3,7 @@ name: Release
 on:
   release:
     types: [published]
-  
+
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 16
 
-      - run: yarn install
+      - run: bun install
 
       # - name: Publish to Open VSX Registry
       #   uses: HaaLeo/publish-vscode-extension@v1

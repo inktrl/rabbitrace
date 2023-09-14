@@ -1,35 +1,39 @@
 {
   "name": "rabbitrace",
-  "publisher": "rohinivsenthil",
+  "publisher": "Dmytro Yanchuk",
   "displayName": "Rabbitrace",
   "icon": "media/icon.png",
   "description": "Manage RabbitMQ queues and exchanges",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rohinivsenthil/rabbitrace/issues"
+    "url": "https://github.com/inktrl/rabbitrace/issues"
   },
   "author": {
-    "name": "Rohini Senthil",
-    "email": "rohinivsenthil@gmail.com"
+    "name": "Dmytro Yanchuk",
+    "email": "yanchukd98@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rohinivsenthil/rabbitrace"
+    "url": "https://github.com/inktrl/rabbitrace"
   },
   "engines": {
     "vscode": "^1.65.0"
   },
   "categories": [
+    "Testing",
     "Visualization",
     "Other"
   ],
   "keywords": [
+    "rmq",
+    "rabbit",
     "rabbitmq",
     "amqp",
     "management",
     "messages",
     "queues",
+    "exchanges",
     "publish"
   ],
   "activationEvents": [
